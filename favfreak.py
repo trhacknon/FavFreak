@@ -77,7 +77,7 @@ if __name__ == "__main__":
     |______ |_____|  \  /  |______ |_____/ |______ |_____| |____/ 
     |       |     |   \/   |       |    \u001b[31m\_ |______\u001b[0m\u001b[32m |     | |    \_
 
-                                \u001b[35m- Coded with \u001b[31m<3\u001b[0m\u001b[35m by Devansh Batham               
+           \u001b[35m- ReCoded with \u001b[31m<3\u001b[0m\u001b[35m by Trhacknon on a base of Devansh Batham               
                                                         
            \u001b[0m 
         """
