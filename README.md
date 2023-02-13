@@ -1,9 +1,9 @@
 ## FavFreak - Weaponizing favicon.ico for BugBounties , OSINT and what not
 
-![FacFreak](https://raw.githubusercontent.com/devanshbatham/FavFreak/master/static/logo.PNG)
+![FavFreak](https://raw.githubusercontent.com/trhacknon/FavFreak/master/static/logo.PNG)
 
 ### Detailed Description about this can be found here : 
-Read Blog here : https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
+Read Blog here : https://medium.com/@trhacknon/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
 
 ### Introduction 
 
@@ -14,7 +14,7 @@ I have created this tool for making my work easier when it comes to recon using 
 Note : Tested with python3.6.9 on Ubuntu/Kali
 
 ```
-$ git clone https://github.com/devanshbatham/FavFreak
+$ git clone https://github.com/trhacknon/FavFreak
 $ cd FavFreak
 $ virtualenv -p python3 env
 $ source env/bin/activate
@@ -41,7 +41,7 @@ AND SO ON
 
 **Fetching /favicon.ico and generating hashes :**
 
-![enter image description here](https://raw.githubusercontent.com/devanshbatham/FavFreak/master/static/favfreak.PNG)
+![enter image description here](https://raw.githubusercontent.com/trhacknon/FavFreak/master/static/favfreak.PNG)
 
 
 **Subdomains/IPs Sorted according to their Favicon hashes :**
